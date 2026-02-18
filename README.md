@@ -1,18 +1,11 @@
 Hi 👋, I'm Arpita Sharma
+
 Backend Developer | Data Science Enthusiast | Problem Solver
-
----
-
-## 💫 About Me
 
 - 💻 Passionate about Backend Development (Java Ecosystem)
 - 📊 Exploring Data Science & Machine Learning
 - 🧠 Strong interest in DSA, DBMS & OS
 - 🚀 Always building, always learning
-
----
-
-## 🛠 Tech Stack
 
 ### 💻 Backend
 - Java
@@ -34,7 +27,6 @@ Backend Developer | Data Science Enthusiast | Problem Solver
 - Operating Systems
 - Computer Networks
 
----
 
 ## 📈 Currently Working On
 
@@ -42,7 +34,6 @@ Backend Developer | Data Science Enthusiast | Problem Solver
 - 📊 Data analysis & ML mini projects
 - 🧠 Improving problem-solving skills
 
----
 
 ## 📌 Projects
 
@@ -51,14 +42,11 @@ Backend Developer | Data Science Enthusiast | Problem Solver
 
 (Projects coming soon 🚀)
 
----
 
 ## 📫 Connect With Me
 
 - 💼 LinkedIn: www.linkedin.com/in/arpita-sharma8808
 - 📧 Email: arpitasharma8808@gmail.com
-
----
 
 ⭐️ “Code. Analyze. Improve. Repeat.”
 
