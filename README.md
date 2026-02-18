@@ -7,10 +7,13 @@ Backend Developer | Data Science Enthusiast | Problem Solver
 - 🧠 Strong interest in DSA, DBMS & OS
 - 🚀 Always building, always learning
 ----
+
 Tools & Tech
+
 Java, c, python
 Pandas, matplotlib, numpy, seaborn, scikit-learn
 DSA, spring-boot, rest APIs, MYSQL
+
 -----
 Currently Working On
 
