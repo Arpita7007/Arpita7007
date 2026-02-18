@@ -1,16 +1,64 @@
-## Hi there 👋
+Hi 👋, I'm Arpita Sharma
+Backend Developer | Data Science Enthusiast | Problem Solver
 
-<!--
-**Arpita7007/Arpita7007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 💫 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Passionate about Backend Development (Java Ecosystem)
+- 📊 Exploring Data Science & Machine Learning
+- 🧠 Strong interest in DSA, DBMS & OS
+- 🚀 Always building, always learning
+
+---
+
+## 🛠 Tech Stack
+
+### 💻 Backend
+- Java
+- Spring Boot
+- REST APIs
+- MySQL
+
+### 📊 Data Science
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Scikit-learn (Basics)
+
+### 🧠 Core CS
+- Data Structures & Algorithms
+- DBMS
+- Operating Systems
+- Computer Networks
+
+---
+
+## 📈 Currently Working On
+
+- 🚀 Building scalable backend systems
+- 📊 Data analysis & ML mini projects
+- 🧠 Improving problem-solving skills
+
+---
+
+## 📌 Projects
+
+🔹 Backend Projects  
+🔹 Data Science Projects    
+
+(Projects coming soon 🚀)
+
+---
+
+## 📫 Connect With Me
+
+- 💼 LinkedIn: www.linkedin.com/in/arpita-sharma8808
+- 📧 Email: arpitasharma8808@gmail.com
+
+---
+
+⭐️ “Code. Analyze. Improve. Repeat.”
+
