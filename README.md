@@ -6,42 +6,17 @@ Backend Developer | Data Science Enthusiast | Problem Solver
 - 📊 Exploring Data Science & Machine Learning
 - 🧠 Strong interest in DSA, DBMS & OS
 - 🚀 Always building, always learning
-
-### 💻 Backend
-- Java
-- Spring Boot
-- REST APIs
-- MySQL
-
-### 📊 Data Science
-- Python
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- Scikit-learn (Basics)
-
-### 🧠 Core CS
-- Data Structures & Algorithms
-- DBMS
-- Operating Systems
-- Computer Networks
-
-
-## 📈 Currently Working On
+----
+Tools & Tech
+Java, c, python
+Pandas, matplotlib, numpy, seaborn, scikit-learn
+DSA, spring-boot, rest APIs, MYSQL
+-----
+Currently Working On
 
 - 🚀 Building scalable backend systems
 - 📊 Data analysis & ML mini projects
 - 🧠 Improving problem-solving skills
-
-
-## 📌 Projects
-
-🔹 Backend Projects  
-🔹 Data Science Projects    
-
-(Projects coming soon 🚀)
-
 
 ## 📫 Connect With Me
 
