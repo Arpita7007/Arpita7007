@@ -23,10 +23,5 @@ Currently Working On
 - 📊 Data analysis & ML mini projects
 - 🧠 Improving problem-solving skills
 
-## 📫 Connect With Me
-
-- 💼 LinkedIn: www.linkedin.com/in/arpita-sharma8808
-- 📧 Email: arpitasharma8808@gmail.com
-
 ⭐️ “Code. Analyze. Improve. Repeat.”
 
