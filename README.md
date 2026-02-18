@@ -11,7 +11,9 @@ Backend Developer | Data Science Enthusiast | Problem Solver
 Tools & Tech
 
 Java, c, python
+
 Pandas, matplotlib, numpy, seaborn, scikit-learn
+
 DSA, spring-boot, rest APIs, MYSQL
 
 -----
