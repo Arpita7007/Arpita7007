@@ -12,7 +12,7 @@ Tools & Tech
 
 Java, c, python
 
-Pandas, matplotlib, numpy, seaborn, scikit-learn
+Pandas, matplotlib, numpy, seaborn, scikit-learn, Machine Learning
 
 DSA, spring-boot, rest APIs, MYSQL
 
