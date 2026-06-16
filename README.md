@@ -1,8 +1,8 @@
 Hi 👋, I'm Arpita Sharma
 
-Backend Developer | Data Science Enthusiast | Problem Solver
+Java Developer | Data Science Enthusiast | Problem Solver
 
-- 💻 Passionate about Backend Development (Java Ecosystem)
+- 💻 Passionate about Java Development 
 - 📊 Exploring Data Science & Machine Learning
 - 🧠 Strong interest in DSA, DBMS & OS
 - 🚀 Always building, always learning
@@ -14,12 +14,11 @@ Java, c, python
 
 Pandas, matplotlib, numpy, seaborn, scikit-learn, Machine Learning
 
-DSA, spring-boot, rest APIs, MYSQL
+DSA, rest APIs, MYSQL
 
 -----
 Currently Working On
 
-- 🚀 Building scalable backend systems
 - 📊 Data analysis & ML mini projects
 - 🧠 Improving problem-solving skills
 
